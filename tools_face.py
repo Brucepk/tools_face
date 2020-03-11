@@ -7,6 +7,13 @@ import base64
 import json
 
 
+'''
+作者：pk哥
+文章首发公众号：Python知识圈，欢迎关注
+完成日期：2020/03/02
+如疑问或需转载，请加我微信留言，备注来意，谢谢。
+'''
+
 header = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0'
         }
